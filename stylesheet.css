@@ -31,6 +31,7 @@ a {
   clear: left;
 }
 
+
 .container {
   max-width: 1170px;
   padding: 0 15px;
@@ -223,6 +224,7 @@ footer {
 
 footer a {
   float: right;
+  text-decoration: none;
 }
 
 .menu-icon {
